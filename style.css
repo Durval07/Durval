@@ -1,4 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 header{
     background-color: #020202;
     color: red;
+    padding: 24px 0;
 }
